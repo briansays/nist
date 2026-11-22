@@ -17,3 +17,8 @@ workbook shows the catalog version and baseline counts it was built from.
 **Rebuilding makes a new, blank workbook.** It does not keep statuses, overlays or
 implementation text from an existing SCTM. Write the output to a new file name
 and copy your entries across.
+
+Source data in XLSX format can be found here: 
+
+- https://csrc.nist.rip/publications/detail/sp/800-53/rev-5/final
+- https://csrc.nist.rip/publications/detail/sp/800-53b/final
